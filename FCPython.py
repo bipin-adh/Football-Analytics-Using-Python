@@ -29,6 +29,8 @@ def createPitch(length,width, unity,linecolor): # in meters
             fig=plt.figure()
             #fig.set_size_inches(7, 5)
             ax=fig.add_subplot(1,1,1)
+            
+          
            
             #Pitch Outline & Centre Line
             plt.plot([0,0],[0,width], color=linecolor)
@@ -89,9 +91,11 @@ def createPitch(length,width, unity,linecolor): # in meters
         else:
             #Create figure
             fig=plt.figure()
+         
             #fig.set_size_inches(7, 5)
             ax=fig.add_subplot(1,1,1)
            
+        
             #Pitch Outline & Centre Line
             plt.plot([0,0],[0,width], color=linecolor)
             plt.plot([0,length],[width,width], color=linecolor)

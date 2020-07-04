@@ -16,6 +16,6 @@ Here , I will adding my progress while learning Football Analytics using Python.
 
 Thanks to the following amazing resources that helped me learn football analytics:
 
-[Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w/videos)
-[FC Python](https://fcpython.com/)
+1. Friend of Tracking youtube channel : [Friends of Tracking](https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w/videos)
+2. Fc Python website : [FC Python](https://fcpython.com/)
 

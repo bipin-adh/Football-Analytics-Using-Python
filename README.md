@@ -7,7 +7,7 @@ Here , I will adding my progress while learning Football Analytics using Python.
 
 * The data has been provided freely by Statsbomb .For further information ,go to their website to read the user agreement and github page for the data: 
 
-![StatsBomb Logo](./img/statsbomb-logo.png)
+![StatsBomb Logo](./img/statsbomb-logo.jpg)
 
 [Statsbomb Open Data](https://github.com/statsbomb/open-data)
 [Statsbomb Resource Centre](https://statsbomb.com/academy/)
